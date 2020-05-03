@@ -1,0 +1,11 @@
+D:\lw10\10.3MD\10.3MD\bin\Debug\netcoreapp3.1\10.3MD.exe
+D:\lw10\10.3MD\10.3MD\bin\Debug\netcoreapp3.1\10.3MD.deps.json
+D:\lw10\10.3MD\10.3MD\bin\Debug\netcoreapp3.1\10.3MD.runtimeconfig.json
+D:\lw10\10.3MD\10.3MD\bin\Debug\netcoreapp3.1\10.3MD.runtimeconfig.dev.json
+D:\lw10\10.3MD\10.3MD\bin\Debug\netcoreapp3.1\10.3MD.dll
+D:\lw10\10.3MD\10.3MD\bin\Debug\netcoreapp3.1\10.3MD.pdb
+D:\lw10\10.3MD\10.3MD\obj\Debug\netcoreapp3.1\10.3MD.csprojAssemblyReference.cache
+D:\lw10\10.3MD\10.3MD\obj\Debug\netcoreapp3.1\10.3MD.AssemblyInfoInputs.cache
+D:\lw10\10.3MD\10.3MD\obj\Debug\netcoreapp3.1\10.3MD.AssemblyInfo.cs
+D:\lw10\10.3MD\10.3MD\obj\Debug\netcoreapp3.1\10.3MD.dll
+D:\lw10\10.3MD\10.3MD\obj\Debug\netcoreapp3.1\10.3MD.pdb
